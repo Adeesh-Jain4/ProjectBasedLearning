@@ -4,6 +4,6 @@ public class Main {
     }
 
     public static void printWelcome() {
-        System.out.println("First filegit");
+        System.out.println("First file");
     }
 }
