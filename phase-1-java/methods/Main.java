@@ -4,6 +4,6 @@ public class Main {
     }
 
     public static void printWelcome() {
-        System.out.println("Learning Java + Git + APIs");
+        System.out.println("First file");
     }
 }
